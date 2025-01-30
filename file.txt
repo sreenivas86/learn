@@ -1,2 +1,3 @@
 thi is initial commit data
+ this is the add git man on ubuntu
 this edit is on the github
